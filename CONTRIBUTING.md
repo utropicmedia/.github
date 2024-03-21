@@ -13,7 +13,7 @@ Each repo should have at a minimum the following:
 1. README.md - Provides an overview of the project and basic usage this file should be brief and simple to read.
 2. CHANGELOG.md - log of releases and associated changes
 3. INSTALL.md - Information on the instalation and requirements of project 
-4. docs/Home.md - this markdown page contains more details that related to items in README.md.  Topics like all possible usage flags, data flow diagrams, testing approaches and other considerations.
+4. docs/HOME.md - this markdown page contains more details that related to items in README.md.  Topics like all possible usage flags, data flow diagrams, testing approaches and other considerations.
 5. docs/arch.drawio.svg - Dataflow diagram for the project.
 6. Diagrams (Data Flow, Architecture, etc.) should be created and maintained with [draw.io](http://draw.io) (https://app.diagrams.net/)
    
