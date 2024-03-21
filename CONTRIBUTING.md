@@ -1,4 +1,4 @@
-# velopment Requirements and Standards
+# Devlopment Requirements and Standards
 
 Coding standards are important - not only for correctness in our work-products, but also to ensure that other technologists can understand what is being done programmatically, and why.
 
