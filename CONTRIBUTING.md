@@ -49,7 +49,7 @@ Weekly meetings are as follows:
 
 All projects will be integrated into the CI / CD pipeline, currently serviced by [Google Cloud Build](https://console.cloud.google.com/cloud-build/dashboard?folder=true&organizationId=true&project=storj-utropic-services) although github actions can also be used.  A project will not be tagged for release without a successful pipeline build.  Each project is expected to have one core unit test that will be scripted into the pipeline.
 
-Code commits will be require the following to be merged:
+**Code commits will be require the following to be merged:**
 
 - Pull Request with changes
 - Approval from a Senior Developer(admin); or
