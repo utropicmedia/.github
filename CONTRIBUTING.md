@@ -16,6 +16,8 @@ Each repo should have at a minimum the following:
 4. docs/HOME.md - this markdown page contains more details that related to items in README.md.  Topics like all possible usage flags, data flow diagrams, testing approaches and other considerations.
 5. docs/arch.drawio.svg - Dataflow diagram for the project.
 6. Diagrams (Data Flow, Architecture, etc.) should be created and maintained with [draw.io](http://draw.io) (https://app.diagrams.net/)
+
+All code commits should have descriptve commit messages.
    
    
 
